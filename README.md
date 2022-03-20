@@ -19,8 +19,7 @@
 Если ссылка скопирована не верно - будет выдано окно с ошибкой. 
 
 Ссылка для скачивания https://github.com/SergeyValekghanin/Script-for-Telegram/raw/main/%D0%A1%D0%BB%D0%B0%D0%B2%D0%B0%20%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96!.exe
-
-
+/*
                   888    d8b               Y88b   d88P                   888          
                   888    Y8P                Y88b d88P                    888          
                   888                        Y88o88P                     888          
@@ -32,4 +31,4 @@
 888                                                         888                       
 888                                                    Y8b d88P                       
 888                                                     "Y88P"                        
-
+*/
