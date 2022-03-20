@@ -15,5 +15,8 @@
 Управление: клавиша F2 перезапуск, F3 старт. При не корректной работе нажать F2. Для выхода нажать правой кнопкой мыши по значку (в трее) и выбрать Exit.  
 
 Если ссылка скопирована не верно - будет выдано окно с ошибкой. 
+Отслеживать вражеские телеграм каналы можно из группы https://t.me/stoprussiachannel
 
-Ссылка для скачивания https://github.com/SergeyValekghanin/Script-for-Telegram/raw/main/%D0%A1%D0%BB%D0%B0%D0%B2%D0%B0%20%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96!.exe
+Правда победит зло. Перемога за нами! 
+
+Ссылка для скачивания скрипта  https://github.com/SergeyValekghanin/Script-for-Telegram/raw/main/%D0%A1%D0%BB%D0%B0%D0%B2%D0%B0%20%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96!.exe
